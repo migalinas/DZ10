@@ -1,6 +1,6 @@
 
 # Commands to start:
-## I am working in LINUX architecture, so for start on Windows you need special tools.
+## I am working on LINUX architecture, so for start on Windows you need special tools.
 
 ## Task 1 Unique:
 ```gcc main.c -o unique```
